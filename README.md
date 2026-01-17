@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- Animated SVG Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Jonathan+Raposo;Computer+Engineering+Student;AI+%26+Backend+Developer;Building+Real-World+Solutions+with+AI" alt="Typing SVG" />
@@ -200,4 +200,4 @@ fun_fact: "I build AI systems that solve real problems 🚀"
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
-</div>
+</div> -->
