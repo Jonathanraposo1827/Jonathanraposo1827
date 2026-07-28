@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0F14,100:12161D&height=180&section=header&text=Jonathan%20Raposo&fontSize=42&fontColor=F2A93B&animation=fadeIn&fontAlignY=65&desc=Backend%20Software%20Developer%20%E2%80%94%20Python%20%C2%B7%20FastAPI%20%C2%B7%20Applied%20AI&descAlignY=85&descSize=16&descColor=35C4A7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0F14,100:12161D&height=180&section=header&text=Jonathan%20Raposo&fontSize=42&fontColor=F2A93B&animation=fadeIn&fontAlignY=65&desc=Backend%20Software%20Developer%20%E2%80%94%20Open%20to%20Work&descAlignY=85&descSize=16&descColor=35C4A7" width="100%"/>
 
 <a href="https://mailto:jnthnraposo@gmail.com"><img src="https://img.shields.io/badge/Email-jnthnraposo%40gmail.com-F2A93B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/TODO-add-your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="https://github.com/Jonathanraposo1827">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+developer+%E2%80%94+Python+%2B+FastAPI+by+default;Plugging+AI+in+where+it+actually+helps;Winner%2C+Goa+Police+Hackathon+2025;Currently+building+a+stroke+detection+system;Open+to+backend+%2F+full-stack+roles&font=JetBrains+Mono&center=true&width=650&height=45&duration=3000&pause=1000&color=F2A93B&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+developer+%E2%80%94+Python+%2B+FastAPI+by+default;Plugging+AI+in+where+it+actually+helps;Winner%2C+Goa+Police+Hackathon+2025;Built+an+AI+%2B+IoT-based+stroke+detection+system;Final+year+done+%E2%80%94+open+to+work&font=JetBrains+Mono&center=true&width=650&height=45&duration=3000&pause=1000&color=F2A93B&vCenter=true&size=20" alt="Typing SVG" />
 </a>
 
 </div>
@@ -21,11 +21,25 @@
 I'm most comfortable starting with a REST API and a database schema, then building outward. Python and FastAPI are my default stack, backed by MySQL or Firebase, with AI (Gemini, Ollama) integrated where it earns its place rather than bolted on.
 
 - 🏆 **1st place, Goa Police Hackathon 2025** — AI-powered cyber-patrolling & fraud detection backend
-- 🎓 Final-year B.E. Computer Engineering @ Padre Conceicao College of Engineering — CGPA 8.58
-- 🔬 Currently building a **stroke detection system** (DenseNet121 + ESP32 wearable monitoring) targeting an IEEE/Springer publication
+- 🎓 B.E. Computer Engineering @ Padre Conceicao College of Engineering — CGPA 8.58 (completed)
+- 🩺 Built an **AI + IoT-based stroke detection system** for my final year project — a DenseNet121 image classifier paired with ESP32-based wearable vitals monitoring
 - 💼 Two backend internships: **Creative Capsule Infotech** (data masking, roadmap tools) & **BettrMe** (remote, REST APIs)
-- 🌱 Currently learning **Go**
+- 🌱 Currently learning **Go**, taking a **Generative AI** course, and picking up the basics of **NestJS**
+- 🔍 **Actively looking for work** — see roles below
 - 📫 Reach me fastest by email: **jnthnraposo@gmail.com**
+
+<br/>
+
+## 💼 Open to Work
+
+Based on my background (backend-heavy, applied-AI, some full-stack), I'm targeting:
+
+- **Backend Developer** (Python / FastAPI / REST APIs)
+- **Full-Stack Developer** (React + Python/FastAPI)
+- **AI/ML Integration Engineer** (applied AI — Gemini, Ollama, model-serving APIs, not research)
+- **Software Development Engineer / SDE-1** (fresher roles)
+- **Python Developer**
+- Open to **QA / Technical Support** roles as well while backend openings are limited
 
 <br/>
 
@@ -39,7 +53,7 @@ I'm most comfortable starting with a REST API and a database schema, then buildi
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,mysql,firebase" />
 
 **Frontend**
 
@@ -48,6 +62,10 @@ I'm most comfortable starting with a REST API and a database schema, then buildi
 **AI / Tools**
 
 <img src="https://skillicons.dev/icons?i=pytorch,git,docker,postman" />
+
+**Currently Learning**
+
+<img src="https://skillicons.dev/icons?i=go" />
 
 </div>
 
@@ -60,7 +78,7 @@ I'm most comfortable starting with a REST API and a database schema, then buildi
 <td width="50%" valign="top">
 
 ### [BrainBlast — Stroke Detection API](https://github.com/Jonathanraposo1827/BrainBlast)
-Production FastAPI backend classifying brain CT scans (healthy / ischemic / hemorrhagic) with swappable EfficientNet, DenseNet, or ResNeXt backbones. Backend for my final-year research project.
+Production FastAPI backend classifying brain CT scans (healthy / ischemic / hemorrhagic) with swappable EfficientNet, DenseNet, or ResNeXt backbones. Backend for my completed final-year stroke detection project.
 
 `Python` `FastAPI` `PyTorch` `Docker`
 
@@ -120,6 +138,17 @@ More on my [portfolio site](TODO-add-portfolio-url) · full project write-ups wi
 
 <br/>
 
+### 📁 More Projects
+
+- **[DataMask Pro](https://github.com/ksrideep15/datamasking)** — Enterprise PII detection & data masking platform (Next.js + NestJS + Prisma). Same domain as the internal Data Masking app I built during my Creative Capsule internship.
+- **[Roadmap Application](https://github.com/CCI-CodeCrunch/internship-2025)** — Team collaboration & skill-roadmap tracker (React + FastAPI), the "roadmap tools" from my Creative Capsule internship.
+- **[AssetAI — Portfolio Management Platform](https://github.com/rohitbinoj/Mclaren-Hackahon)** — AI-powered portfolio risk analysis & RAG chatbot (React + FastAPI + Gemini + ChromaDB).
+- **[StockMaster](https://github.com/Nikhil181511/Odoo)** — Inventory management system (React + Firebase).
+- **[Smart Consumer Guide](https://github.com/Jonathanraposo1827/Smart-Consumer-Guide)** — Barcode scanner + AI chatbot for nutrition info, built with team Night Owls.
+- **[NestJS Starter](https://github.com/Jonathanraposo1827/nest-js-tutorial-project)** — Learning project while picking up NestJS fundamentals.
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -151,7 +180,6 @@ More on my [portfolio site](TODO-add-portfolio-url) · full project write-ups wi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12161D,100:0C0F14&height=100&section=footer" width="100%"/>
 
-**jnthnraposo@gmail.com** · Goa, India · Open to backend / full-stack / applied-AI roles
+**jnthnraposo@gmail.com** · Goa, India · Open to Backend / Full-Stack / AI-Integration roles
 
 </div>
-
