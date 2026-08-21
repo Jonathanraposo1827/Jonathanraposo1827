@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="https://github.com/Jonathanraposo1827">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+developer+%E2%80%94+Python+%2B+FastAPI+by+default;Now+writing+Go+in+production+at+Spintly;Plugging+AI+in+where+it+actually+helps;Winner%2C+Goa+Police+Hackathon+2025;Built+an+AI+%2B+IoT-based+stroke+detection+system;Open+to+full-time+backend+%2F+full-stack+roles&font=JetBrains+Mono&center=true&width=650&height=45&duration=3000&pause=1000&color=F2A93B&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+developer+%E2%80%94+Python+%2B+FastAPI+by+default;Learning+Go+hands-on+at+Spintly;Plugging+AI+in+where+it+actually+helps;Winner%2C+Goa+Police+Hackathon+2025;Built+an+AI+%2B+IoT-based+stroke+detection+system;Open+to+full-time+backend+%2F+full-stack+roles&font=JetBrains+Mono&center=true&width=650&height=45&duration=3000&pause=1000&color=F2A93B&vCenter=true&size=20" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,15 +18,15 @@
 
 ## 🧭 About
 
-I'm most comfortable starting with a REST API and a database schema, then building outward. Python and FastAPI are my default stack, backed by MySQL or Firebase, with AI (Gemini, Ollama) integrated where it earns its place rather than bolted on. I've also moved from "learning Go" to actually writing it in production.
+I'm most comfortable starting with a REST API and a database schema, then building outward. Python and FastAPI are my default stack, backed by MySQL or Firebase, with AI (Gemini, Ollama) integrated where it earns its place rather than bolted on. Currently expanding into Go and Generative AI.
 
-- 💻 **Currently interning at Spintly** (smart access solutions) as a Backend Development Intern — working on the `automation_setup_controller` service in **Go**, across a concurrent client architecture spanning **Kafka**, **REST**, and **AWS SQS**
+- 💻 **Currently interning at Spintly** (smart access solutions) as a Backend Development Intern — learning and writing **Go** hands-on on the `automation_setup_controller` service, across a concurrent client architecture spanning **Kafka**, **REST**, and **AWS SQS**
 - 🏆 **1st place, Goa Police Hackathon 2025** — AI-powered cyber-patrolling & fraud detection backend
 - 🎓 B.E. Computer Engineering @ Padre Conceicao College of Engineering — CGPA 8.58 (completed)
 - 🩺 Built an **AI + IoT-based stroke detection system** for my final year project — a DenseNet121 image classifier paired with ESP32-based wearable vitals monitoring, now on track for IEEE/Springer submission
 - 💼 Three backend internships: **Spintly** (Go, smart-access automation), **Creative Capsule Infotech** (data masking, roadmap tools), and **BettrMe** (remote, REST APIs)
 - 🧰 Day-to-day tooling: **Git/GitHub**, **Jira**, **Postman**, writing **Swagger/OpenAPI specs**, plus AI-assisted dev tools like **GitHub Copilot** and **Antigravity**
-- 🌱 Also picking up **NestJS** basics and working through a **Generative AI** course
+- 🌱 **Currently learning: Go** (hands-on at Spintly) and **Generative AI** (via an ongoing course), plus picking up **NestJS** basics
 - 🔍 **Open to full-time offers** — see roles below
 - 📫 Reach me fastest by email: **jnthnraposo@gmail.com**
 
@@ -61,7 +61,7 @@ Based on my background (backend-heavy, applied-AI, some full-stack), I'm targeti
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=go,py,js,ts,cpp,mysql,php" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,mysql,php" />
 
 **Backend**
 
@@ -74,6 +74,10 @@ Based on my background (backend-heavy, applied-AI, some full-stack), I'm targeti
 **AI / Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,postman" />
+
+**Currently Learning**
+
+<img src="https://skillicons.dev/icons?i=go" /> · Go &nbsp;&nbsp;|&nbsp;&nbsp; Generative AI (course in progress)
 
 </div>
 
