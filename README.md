@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0F14,100:12161D&height=180&section=header&text=Jonathan%20Raposo&fontSize=42&fontColor=F2A93B&animation=fadeIn&fontAlignY=65&desc=Backend%20Software%20Developer%20%E2%80%94%20Open%20to%20Work&descAlignY=85&descSize=16&descColor=35C4A7" width="100%"/>
 
-<a href="https://mailto:jnthnraposo@gmail.com"><img src="https://img.shields.io/badge/Email-jnthnraposo%40gmail.com-F2A93B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/TODO-add-your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="TODO-add-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-Visit-35C4A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:jnthnraposo@gmail.com"><img src="https://img.shields.io/badge/Email-jnthnraposo%40gmail.com-F2A93B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathan-raposo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://jonathan-raposo-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-35C4A7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
 <a href="https://github.com/Jonathanraposo1827">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+developer+%E2%80%94+Python+%2B+FastAPI+by+default;Plugging+AI+in+where+it+actually+helps;Winner%2C+Goa+Police+Hackathon+2025;Built+an+AI+%2B+IoT-based+stroke+detection+system;Final+year+done+%E2%80%94+open+to+work&font=JetBrains+Mono&center=true&width=650&height=45&duration=3000&pause=1000&color=F2A93B&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+developer+%E2%80%94+Python+%2B+FastAPI+by+default;Now+writing+Go+in+production+at+Spintly;Plugging+AI+in+where+it+actually+helps;Winner%2C+Goa+Police+Hackathon+2025;Built+an+AI+%2B+IoT-based+stroke+detection+system;Open+to+full-time+backend+%2F+full-stack+roles&font=JetBrains+Mono&center=true&width=650&height=45&duration=3000&pause=1000&color=F2A93B&vCenter=true&size=20" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,14 +18,16 @@
 
 ## 🧭 About
 
-I'm most comfortable starting with a REST API and a database schema, then building outward. Python and FastAPI are my default stack, backed by MySQL or Firebase, with AI (Gemini, Ollama) integrated where it earns its place rather than bolted on.
+I'm most comfortable starting with a REST API and a database schema, then building outward. Python and FastAPI are my default stack, backed by MySQL or Firebase, with AI (Gemini, Ollama) integrated where it earns its place rather than bolted on. I've also moved from "learning Go" to actually writing it in production.
 
+- 💻 **Currently interning at Spintly** (smart access solutions) as a Backend Development Intern — working on the `automation_setup_controller` service in **Go**, across a concurrent client architecture spanning **Kafka**, **REST**, and **AWS SQS**
 - 🏆 **1st place, Goa Police Hackathon 2025** — AI-powered cyber-patrolling & fraud detection backend
 - 🎓 B.E. Computer Engineering @ Padre Conceicao College of Engineering — CGPA 8.58 (completed)
-- 🩺 Built an **AI + IoT-based stroke detection system** for my final year project — a DenseNet121 image classifier paired with ESP32-based wearable vitals monitoring
-- 💼 Two backend internships: **Creative Capsule Infotech** (data masking, roadmap tools) & **BettrMe** (remote, REST APIs)
-- 🌱 Currently learning **Go**, taking a **Generative AI** course, and picking up the basics of **NestJS**
-- 🔍 **Actively looking for work** — see roles below
+- 🩺 Built an **AI + IoT-based stroke detection system** for my final year project — a DenseNet121 image classifier paired with ESP32-based wearable vitals monitoring, now on track for IEEE/Springer submission
+- 💼 Three backend internships: **Spintly** (Go, smart-access automation), **Creative Capsule Infotech** (data masking, roadmap tools), and **BettrMe** (remote, REST APIs)
+- 🧰 Day-to-day tooling: **Git/GitHub**, **Jira**, **Postman**, writing **Swagger/OpenAPI specs**, plus AI-assisted dev tools like **GitHub Copilot** and **Antigravity**
+- 🌱 Also picking up **NestJS** basics and working through a **Generative AI** course
+- 🔍 **Open to full-time offers** — see roles below
 - 📫 Reach me fastest by email: **jnthnraposo@gmail.com**
 
 <br/>
@@ -34,12 +36,22 @@ I'm most comfortable starting with a REST API and a database schema, then buildi
 
 Based on my background (backend-heavy, applied-AI, some full-stack), I'm targeting:
 
-- **Backend Developer** (Python / FastAPI / REST APIs)
+- **Backend Developer** (Python / FastAPI / Go / REST APIs)
 - **Full-Stack Developer** (React + Python/FastAPI)
 - **AI/ML Integration Engineer** (applied AI — Gemini, Ollama, model-serving APIs, not research)
 - **Software Development Engineer / SDE-1** (fresher roles)
 - **Python Developer**
 - Open to **QA / Technical Support** roles as well while backend openings are limited
+
+<br/>
+
+## 🧑‍💻 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| Backend Development Intern | **Spintly** (Smart Access Solutions), Goa | Aug 2026 – Present |
+| Software Development Intern | **Creative Capsule Infotech Pvt. Ltd.**, Goa | Jul 2025 – Sep 2025 |
+| Backend Development Intern | **BettrMe** (Remote) | Mar 2025 – May 2025 |
 
 <br/>
 
@@ -49,25 +61,23 @@ Based on my background (backend-heavy, applied-AI, some full-stack), I'm targeti
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,cpp,mysql,php" />
+<img src="https://skillicons.dev/icons?i=go,py,js,ts,cpp,mysql,php" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nestjs,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,kafka,mysql,firebase" />
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 
-**AI / Tools**
+**AI / Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=pytorch,git,docker,postman" />
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=go" />
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,postman" />
 
 </div>
+
+Also using day-to-day: **Jira** · **Swagger/OpenAPI** spec writing · **GitHub Copilot** · **Antigravity**
 
 <br/>
 
@@ -132,7 +142,7 @@ Self-hosted chatbot: FastAPI + Ollama (Mistral) for responses, Firestore for per
 
 <div align="center">
 
-More on my [portfolio site](TODO-add-portfolio-url) · full project write-ups with problem/architecture/learnings included.
+More on my [portfolio site](https://jonathan-raposo-portfolio.vercel.app) · full project write-ups with problem/architecture/learnings included.
 
 </div>
 
